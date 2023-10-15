@@ -65,7 +65,7 @@ By default, the API will be available at `http://localhost:5000/`.
 You can now access the API using a tool like [Postman](https://www.postman.com/) or by creating your own client application. Here are some example API endpoints:
 
 - `GET /get-all-students`: Get a list of all students.
-- `GET /get-/<studentID>`: Get details of a specific student.
+- `GET /get-student/<studentID>`: Get details of a specific student.
 - `POST /save-student`: Create a new student.
 - `PUT /update-student/<studentID>`: Update a student's information.
 - `DELETE /delete-student/<studentID>`: Delete a student.
