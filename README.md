@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 
 ### Prerequisites
 
-- Python (3.6 or higher)
-- Virtualenv (for library management)
+- Python 3.\*
+- [Virtualenv (for library management)](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 
 ### 1. Clone the Repository
 
